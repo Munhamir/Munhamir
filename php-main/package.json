@@ -1,0 +1,23 @@
+{
+  "name": "pwl-project",
+  "version": "1.0.0",
+  "description": "pemrograman web lanjut udinus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harkespan/php.git#main"
+  },
+  "keywords": [
+    "pwl",
+    "web"
+  ],
+  "author": "harkespan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harkespan/php/issues"
+  },
+  "homepage": "https://github.com/harkespan/php/tree/main#readme"
+}
